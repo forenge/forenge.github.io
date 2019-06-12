@@ -88,10 +88,10 @@ defaults:
 
 # Site Author
 author:
-  name: former engineer kor
+  name: "former engineer kor"
   picture:
-  email: former.engineer.kor@gmail.com 
-  twitter: ex_engineer_e
+  email: "former.engineer.kor@gmail.com"
+  twitter: "ex_engineer_e"
   links:
     - title:
       url:
