@@ -35,6 +35,7 @@ disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: ex_engineer_e # site's Twitter username, e.g. "mmistakes"
+  
 
 # Liquid
 liquid:
@@ -83,14 +84,14 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
+      share: false
 
 # Site Author
 author: former-engineer-kor
-  name: 
+  name: former.engineer.kor
   picture:
-  email:
-  twitter:
+  email: former.engineer.kor@gmail.com 
+  twitter: @ex_engineer_e
   links:
     - title:
       url:
