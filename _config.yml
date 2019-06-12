@@ -87,7 +87,7 @@ defaults:
       share: false
 
 # Site Author
-author: former-engineer-kor
+author:
   name: former engineer kor
   picture:
   email: former.engineer.kor@gmail.com 
